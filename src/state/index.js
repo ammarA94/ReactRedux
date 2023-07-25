@@ -1,0 +1,2 @@
+// To access the states, action creators , we have created this index.js file. We will talk to this js file to access the state, it will give the action-creators and then we can perform any action we needed.
+export * as actionCreators from "./action-creators/index"
